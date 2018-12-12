@@ -1,3 +1,4 @@
 <?php
 
-echo "HELlo world";
+echo "HEllo world";
+echo "PHP IS AWESOME ";
